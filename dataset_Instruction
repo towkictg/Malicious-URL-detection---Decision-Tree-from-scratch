@@ -1,0 +1,9 @@
+## To download the dataset:
+
+kaggle datasets download -d siddharthkumar25/malicious-and-benign-urls
+
+
+To UnziP:
+unzip malicious-and-benign-urls.zip
+
+##
