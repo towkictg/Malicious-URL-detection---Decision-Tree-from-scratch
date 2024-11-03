@@ -1,0 +1,1 @@
+in this project, I implemented a Malicious URL detection model without the use of any ML library. To explore how decision trees are implemented under the hood. I took help from online resources and ChatGPT
